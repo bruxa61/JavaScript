@@ -1,9 +1,11 @@
 prompt = require("prompt-sync")();
 
-let idade = prompt("Sua idade:")
+function verificarIdade() {
+const idade = parseInt(document.getElementById('idade').value);
 
 if(idade<18){
-    console.log("Entrada Proibida")
+    alert("Entrada Proibida");
 }else{
-    console.log("Entadada Liberada")
+    alert("Entadada Liberada");
+}
 }
