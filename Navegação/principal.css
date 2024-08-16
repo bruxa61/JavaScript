@@ -1,0 +1,32 @@
+*{
+    background-color: #e4e3db;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 2vh;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+}
+button:hover {
+    background-color: #80144f;
+}
+
+#e{
+    background-color: #eb88be;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 2.5vh;
+}
