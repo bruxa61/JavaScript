@@ -8,25 +8,65 @@ body {
     margin-top: 10vh;
 }
 
-button {
+button{
     padding: 10px 20px;
     font-size: 2vh;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    outline: none;
-    text-decoration: none;
-}
-button:hover {
-    background-color: #80144f;
-}
-
-#e{
-    background-color: #eb88be;
 }
 
 p {
     font-family: Arial, sans-serif;
     font-size: 2.5vh;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* PRIMEIRA PARTE */
+
+#jogo{
+    background-color: #1a4068;
+}
+
+#a{
+    background-color: #1a4068;
+}
+
+#bi{
+    background-color: #305e26;
+}
+
+#b{
+    background-color: #305e26;
+}
+
+#media{
+    background-color: #2886eb;
+}
+
+#c{
+    background-color: #2886eb;
+}
+
+#gorjeta{
+    background-color: #8400d1;
+}
+
+#d{
+    background-color: #8400d1;
+}
+
+#hora{
+    background-color: #ff008c;
+}
+
+#e{
+    background-color: #ff008c;
+}
+
+/* SEGUNDA PARTE */
