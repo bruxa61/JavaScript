@@ -32,10 +32,10 @@ function verificarMedia() {
 
     let med = parseInt(pro1 + pro2 + pro3 + pro4) / 4;
 
-    if(5 <= med < 7) {
-        document.getElementById("resul").innerHTML = "Recuperação. Sua média é: " + med;
-    } else if(med >= 7) {
+    if(med >= 7) {
         document.getElementById("resul").innerHTML = "Aprovado! Sua média é: " + med;
+    } else if(5 <= med) {
+        document.getElementById("resul").innerHTML = "Recuperação. Sua média é: " + med;
     } else if(med < 5) {
         document.getElementById("resul").innerHTML = "Reprovado. Sua média é: " + med;
     }

@@ -32,3 +32,17 @@ button:hover {
     font-size: 18px;
     font-weight: bold;
 }
+
+#diversão1{
+    width: 100vh;
+    height: 100vh;
+    margin-right: 70vh;
+}
+
+#diversão2{
+    margin: absolute;
+    margin-top: -100vh;
+    margin-left: 90vh;
+    height: 100vh;
+    width: 100vh;
+}
