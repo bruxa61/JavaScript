@@ -25,3 +25,9 @@ p {
     font-family: Arial, sans-serif;
     font-size: 2.5vh;
 }
+
+#img{
+    width: 60vh;
+    height: 60vh;
+    margin: 7vh;
+}

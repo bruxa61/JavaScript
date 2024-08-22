@@ -38,3 +38,8 @@ button:hover {
     font-size: 18px;
     font-weight: bold;
 }
+
+#img{
+    width: 50vh;
+    height: 50vh;
+}

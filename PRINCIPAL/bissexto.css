@@ -32,6 +32,8 @@ p {
 }
 
 #calen{
-    width: 70vh;
-    height: 70vh;
+    width: 65vh;
+    height: 65vh;
+    margin: 10vh;
+    margin-left: 130vh;
 }
